@@ -1,0 +1,10 @@
+.arrow-wrapper {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin: 10px;
+}
+
+.folder-wrapper {
+    display: block;
+}

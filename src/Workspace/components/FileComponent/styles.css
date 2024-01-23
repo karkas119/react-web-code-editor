@@ -1,0 +1,10 @@
+.file-wrapper {
+    margin: 20px 35px;
+    cursor: pointer;
+}
+
+.selected {
+    padding: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
